@@ -5,5 +5,4 @@ cilantro
 diced onion
 salt
 serrano peppers
-garlic
-salt2
+
